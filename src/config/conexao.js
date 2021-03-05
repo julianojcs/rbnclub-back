@@ -21,11 +21,3 @@ const conexao = () => {
 }
 
 module.exports = conexao
-
-
-// let connConfig = {
-//   host: 'mysql669.umbler.com',
-//   user: 'rbnclub',
-//   password: 'rbnclub123',
-//   database: 'rbnclub'
-// }
